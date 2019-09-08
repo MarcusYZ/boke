@@ -1,0 +1,19 @@
+{
+  "name": "boke",
+  "version": "1.0.0",
+  "description": "在线博客开发 ，node 学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusYZ/boke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusYZ/boke/issues"
+  },
+  "homepage": "https://github.com/MarcusYZ/boke#readme"
+}
